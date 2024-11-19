@@ -16,5 +16,23 @@
         "Description": "This is the description for notice 1",
         "PostedBy": "User 1",
         "DatePosted": "2023-11-02T15:30:00"
+    },
+    { 
+        "title": "Weekly Meeting", 
+        "date": "2024-11-20", 
+        "time": "10:00 AM",
+        "location": "Conference Room A", 
+        "details": "All team members are required to attend the weekly meeting. Please bring your project updates."
+    },
+    { 
+        "title": "Holiday Announcement", 
+        "date": "2024-12-25",
+        "details": "The office will be closed for Christmas Day. Happy Holidays!"
+    },
+    { 
+        "title": "Workshop: Python for Beginners",
+        "date": "2024-11-25", "time": "02:00 PM",
+        "location": "Lab B", 
+        "details": "Join us for a workshop on Python programming basics. Open to all employees."
     }
 ]
