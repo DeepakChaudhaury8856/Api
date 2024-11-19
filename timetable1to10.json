@@ -1,0 +1,109 @@
+{
+    "classes": [
+      {
+        "class": "1st",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Art", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "2nd",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Art", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "3rd",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "4th",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "5th",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "6th",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "7th",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      },
+      {
+        "class": "8th",
+        "schedule": [
+          {"day": "Monday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Monday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Monday", "subject": "Science", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Monday", "subject": "Social Studies", "time": "1:00 PM - 2:00 PM"},
+          {"day": "Tuesday", "subject": "Math", "time": "9:00 AM - 10:00 AM"},
+          {"day": "Tuesday", "subject": "English", "time": "10:15 AM - 11:15 AM"},
+          {"day": "Tuesday", "subject": "Music", "time": "11:30 AM - 12:30 PM"},
+          {"day": "Tuesday", "subject": "Physical Education", "time": "1:00 PM - 2:00 PM"}
+        ]
+      }
+	  ]
+      }
+	  
